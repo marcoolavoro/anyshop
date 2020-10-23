@@ -1,0 +1,139 @@
+/*Index*/
+
+    body{
+        /*Colore*/
+        background-color: black;
+    }
+
+    #index_titoloS{
+        /*Font*/
+        font-family: Verdana;
+        text-align: center;
+        /*Colore*/
+        color: white;
+        /*Cursore*/
+        cursor: default;
+    }
+
+    #index_AMD_Ryzen_Threadripper_2970WXI{
+        /*Grandezza*/
+        width: 400px;
+        /*Posizione*/
+        display: block;
+        margin-top: 50px;
+        margin-left: auto;
+        margin-right: auto;
+        /*Cursore*/
+        cursor: pointer;
+    }
+
+/*AMD_Ryzen_Threadripper_2970WX*/
+
+    #ART2970WX_titoloS{
+        /*Font*/
+        font-family: Verdana;
+        text-align: center;
+        /*Colore*/
+        color: white;
+        /*Cursore*/
+        cursor: default;
+    }
+
+    #ART2970WX_AMD_Ryzen_Threadripper_2970WXI{
+        /*Grandezza*/
+        width: 300px;
+        /*Posizione*/
+        display: block;
+        margin-top: 50px;
+        margin-left: auto;
+        margin-right: auto;
+        /*Cursore*/
+        cursor: default;
+    }
+
+    #ART2970WX_prezzoS{
+        /*Font*/
+        font-family: Verdana;
+        text-align: center;
+        /*Colore*/
+        color: white;
+        /*Cursore*/
+        cursor: default;
+    }
+
+    #ART2970WX_emailS{
+        /*Font*/
+        font-family: Verdana;
+        text-align: center;
+        /*Colore*/
+        color: white;
+        /*Cursore*/
+        cursor: default;
+    }
+
+    #ART2970WX_emailI{
+        /*Font*/
+        font-family: Verdana;
+        font-size: 20px;
+        text-align: center;
+        /*Colore*/
+        background-color: white;
+        /*Grandezza*/
+        padding: 15px 100px;
+        /*Posizione*/
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        /*Bordo*/
+        border-radius: 30px;
+        border: none;
+    }
+
+    #ART2970WX_numeroS{
+        /*Font*/
+        font-family: Verdana;
+        text-align: center;
+        /*Colore*/
+        color: white;
+        /*Cursore*/
+        cursor: default;
+    }
+
+    #ART2970WX_numeroI{
+        /*Font*/
+        font-family: Verdana;
+        font-size: 20px;
+        text-align: center;
+        /*Colore*/
+        background-color: white;
+        /*Grandezza*/
+        padding: 15px 100px;
+        /*Posizione*/
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        /*Bordo*/
+        border-radius: 30px;
+        border: none;
+    }
+
+    #ART2970WX_richiediB{
+        /*Font*/
+        font-family: Verdana;
+        font-size: 20px;
+        text-align: center;
+        /*Colore*/
+        background-color: white;
+        /*Grandezza*/
+        padding: 15px 32px;
+        /*Posizione*/
+        display: block;
+        margin-top: 50px;
+        margin-left: auto;
+        margin-right: auto;
+        /*Bordo*/
+        border-radius: 30px;
+        border: none;
+        /*Cursore*/
+        cursor: pointer;
+    }
